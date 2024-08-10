@@ -1,0 +1,10 @@
+select {
+    margin: 50px;
+    width: 150px;
+    font-size: 16px;
+    height: 34px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(https://www.svgrepo.com/show/495005/arrow-down.svg) 96% / 15% no-repeat #504e4e;
+  }
